@@ -1,0 +1,7 @@
+﻿  maze.c
+C:\Users\MINUK\Desktop\2023-1학기\자료구조 실습\20194339_김민욱_DataStructure_week2\Maze\maze.c(9,28): warning C4098: 'Find': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\MINUK\Desktop\2023-1학기\자료구조 실습\20194339_김민욱_DataStructure_week2\Maze\maze.c(26,29): warning C4098: 'Find': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\MINUK\Desktop\2023-1학기\자료구조 실습\20194339_김민욱_DataStructure_week2\Maze\maze.c(29,29): warning C4098: 'Find': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\MINUK\Desktop\2023-1학기\자료구조 실습\20194339_김민욱_DataStructure_week2\Maze\maze.c(32,29): warning C4098: 'Find': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\MINUK\Desktop\2023-1학기\자료구조 실습\20194339_김민욱_DataStructure_week2\Maze\maze.c(35,29): warning C4098: 'Find': 'void' 함수에서 값을 반환하고 있습니다.
+  Maze.vcxproj -> C:\Users\MINUK\Desktop\2023-1학기\자료구조 실습\20194339_김민욱_DataStructure_week2\Maze\x64\Debug\Maze.exe
